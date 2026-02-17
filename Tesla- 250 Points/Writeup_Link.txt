@@ -1,3 +1,4 @@
 Medium Writeup:
 
-https://medium.com/@0xgbreil/0xfun-ctf-2026-tesla-forensic-challenge-753365613fc1?postPublishedType=initial
+https://medium.com/@0xgbreil/0xfun-ctf-2026-tesla-forensic-challenge-753365613fc1
+
